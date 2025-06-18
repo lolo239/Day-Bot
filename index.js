@@ -1731,4 +1731,4 @@ client.on(Events.MessageCreate, async message => {
 });
 
 // Bot-Token - Du musst deinen echten Bot-Token hier einfügen
-client.login('MTM4MTg2ODgwNDk0NjEzNzE0MA.GWQHSU.fAj9X3wncsbBIWfglJCSkqnPXPpA-isncNAo3c');
+client.login('');
